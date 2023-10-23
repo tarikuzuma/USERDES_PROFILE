@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">USERDES_PROFILE_FINAL</string>
+    <string name="link_linkedin">
+        <a href ="https://www.linkedin.com/in/edwin-gumba-jr-1909771b1/"> edwin-gumba-jr-1909771b1 </a>
+    </string>
+    <string name="link_github">
+        <a href ="https://github.com/tarikuzuma"> tarikuzuma </a>
+    </string>
+</resources>
